@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://64.media.tumblr.com/76c853ef97f732d3658a937cac2eb5a0/bfca598b042fdff1-c4/s1280x1920/560de5ef2093615ab189820049994a4a891e12ea.gif' width='210'>
+<img align='right' src='https://64.media.tumblr.com/fc28eba82ca4c5902e51c51ed9e69b7d/bfca598b042fdff1-e5/s1280x1920/9d8ce3145beef2a2b1ff5b25d2cff2ce213ed215.gifv' width='250'>
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 📚 I'm a Business Analytics Sophomore Undergraduate studying at the National University of Singapore 
@@ -12,7 +12,7 @@
 <br/>
 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 <br/>
-⚡ Fun fact: I enjoy heart-to-heart conversations about anything under the sun! (+ mintgreen fan)
+⚡ Fun fact: I enjoy heart-to-heart conversations about anything under the sun! (+ mintgreen and hangyodon fan)
 
 ### Languages
 
