@@ -1,11 +1,16 @@
-# Hi there 👋 I'm Brian!
+## 👋 Hi there, I'm Brian! 👋
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 📚 I'm a Business Analytics undergraduate studying at the National University of Singapore 
+### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+📚 I'm a Business Analytics Sophomore Undergraduate studying at the National University of Singapore 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 💬 Talk to me about Start-Ups, Data Science, and Full-Stack Application Development or even UI/UX!
-- ⚡ Fun fact: I enjoy heart-to-heart conversations about anything under the sun!
+<br/>
+🌱 I’m currently learning Web Development in the MERN stack. I would like to explore the use of T3 Stack in future. :octocat:
+<br/>
+💬 Talk to me about Start-Ups, Data Science, and Full-Stack Application Development or even UI/UX!
+<br/>
+💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+<br/>
+⚡ Fun fact: I enjoy heart-to-heart conversations about anything under the sun!
 
 ### Languages
 
