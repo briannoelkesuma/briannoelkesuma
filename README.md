@@ -3,12 +3,12 @@
 <img align='right' src='https://64.media.tumblr.com/fc28eba82ca4c5902e51c51ed9e69b7d/bfca598b042fdff1-e5/s1280x1920/9d8ce3145beef2a2b1ff5b25d2cff2ce213ed215.gifv' width='250'>
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
-📚 I'm a Business Analytics Sophomore Undergraduate studying at the National University of Singapore 
+📚 I'm an AI Enthusiast studying at the National University of Singapore 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br/>
-🌱 I’m currently learning Web Development in the MERN stack. I would like to explore the use of T3 Stack in future. :octocat:
+🌱 I’m currently learning how I can meaningfully contribute to the AI space via my knowledge. I would like to explore responsible AI practices in future and better engineering principles in the fast moving AI space. :octocat:
 <br/>
-💬 Talk to me about Start-Ups (down to work on novel bold ideas), Data Science, Full-Stack App Development and UI/UX!
+💬 Talk to me about AI/ML, Start-Ups (down to work on novel bold ideas) or any interesting experiments relating to Data Science!
 <br/>
 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 <br/>
