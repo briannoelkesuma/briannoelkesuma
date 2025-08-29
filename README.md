@@ -10,9 +10,6 @@
 <br/>
 💬 Talk to me about AI/ML, Start-Ups (down to work on novel bold ideas) or any interesting experiments relating to Data Science!
 <br/>
-💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-<br/>
-⚡ Fun fact: I enjoy heart-to-heart conversations about anything under the sun! (+ mintgreen and hangyodon fan)
 
 ### Languages
 
